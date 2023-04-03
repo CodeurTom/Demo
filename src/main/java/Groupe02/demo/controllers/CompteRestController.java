@@ -1,12 +1,10 @@
-package Groupe02.demo.controller;
+package Groupe02.demo.controllers;
 
 import Groupe02.demo.entities.Compte;
-import Groupe02.demo.service.CompteService;
+import Groupe02.demo.services.CompteService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
-import static org.springframework.data.jpa.domain.AbstractPersistable_.id;
 
 @RestController
 public class CompteRestController {

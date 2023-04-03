@@ -1,6 +1,5 @@
-package Groupe02.demo.service;
+package Groupe02.demo.services;
 
-import Groupe02.demo.entities.Client;
 import Groupe02.demo.entities.Compte;
 
 import java.util.List;

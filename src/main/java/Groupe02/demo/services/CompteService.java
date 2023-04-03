@@ -1,4 +1,4 @@
-package Groupe02.demo.service;
+package Groupe02.demo.services;
 
 import Groupe02.demo.entities.Compte;
 import Groupe02.demo.repositories.CompteRepository;
